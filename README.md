@@ -1,2 +1,2 @@
 # dl_fun
-Some experiments in various areas of deep learening
+Some experiments in various areas of deep learning
